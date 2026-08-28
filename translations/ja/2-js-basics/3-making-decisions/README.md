@@ -565,7 +565,7 @@ Josh Comeauの素晴らしい[operator lookup](https://joshwcomeau.com/operator-
 
 ## 課題
 
-[Operators](assignment.md)
+[演算子](assignment.md)
 
 ---
 
