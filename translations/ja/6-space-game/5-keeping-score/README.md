@@ -490,7 +490,7 @@ Agentモードを使用して以下のチャレンジを完了してください
 
 ## 講義後クイズ
 
-[講義後のクイズ](https://ff-quizzes.netlify.app/web/quiz/38)
+[講義後クイズ](https://ff-quizzes.netlify.app/web/quiz/38)
 
 ## 復習と自主学習
 
